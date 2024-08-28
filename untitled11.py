@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1ZogIH7aFyEHUOaQKkc1QgPnG1_m-Nm0g
 """
 
-!pip install facenet-pytorch
+## pip install facenet-pytorch
 
 import torch
 import torchvision
