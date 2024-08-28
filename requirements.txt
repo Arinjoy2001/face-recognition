@@ -1,0 +1,5 @@
+  torch                                                            
+     torchvision                                                      
+    torchvision import transforms                                      
+
+    from facenet_pytorch import MTCNN, InceptionResnetV1                    
